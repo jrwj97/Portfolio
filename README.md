@@ -3,6 +3,7 @@
 
   ## Description
   This is my portfolio that was built with React!
+  ![Website Screenshot](/src/contexts/Screen%20Shot%202022-05-23%20at%2000.27.36.png)
   ## Table of Contents
   * [Installation](#installation)
   * [License](*license)
