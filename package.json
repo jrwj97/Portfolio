@@ -2,7 +2,7 @@
   "name": "johnnysportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jrwj97.github.io",
+  "homepage": "https://jrwj97.github.io/ReactPortfolio",
   "dependencies": {
     "@fontsource/alike": "^4.5.8",
     "@material-ui/core": "^4.12.3",
@@ -20,12 +20,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts --openssl-legacy-provider build",
-    "test": "react-scripts --openssl-legacy-provider test",
-    "eject": "react-scripts --openssl-legacy-provider eject",
-    "lint": "eslint .",
-    "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
-    "deploy": "gh-pages -d build"
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "browserslist": {
     "production": [
