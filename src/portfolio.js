@@ -33,12 +33,12 @@ const projects = [
     livePreview: "https://macro-matics.herokuapp.com/",
   },
   {
-    name: "Placeholder",
+    name: "DevHub",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["HTML", "CSS", "JS"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+      "An app giving users a way to choose and design there ecommerce, landing page, portfolios, image hosting, social meadia or business page. Its a one stop shop where you can sign up and see the ranges of website template you want created for you. Also links you with the developer of your choice to team up and get your vision created.",
+    stack: ["HTML", "CSS", "JS", "GraphQL", "MongoDB", "React"],
+    sourceCode: "https://github.com/Marcus0224/DevHub",
+    livePreview: "https://whispering-island-67364.herokuapp.com/cart",
   },
 ];
 
