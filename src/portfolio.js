@@ -54,6 +54,9 @@ const skills = [
   "GitHub",
   "Node.js",
   "Jest",
+  "Zendesk",
+  "Jira",
+  "SQL",
 ];
 
 const contact = {
