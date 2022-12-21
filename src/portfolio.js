@@ -7,7 +7,7 @@ const about = {
   name: "Johnny Williams",
   role: "Full Stack Engineer",
   description:
-    "I am a central Florida native who recently made a career change from EMS (Emergency Medical Services) to Web Development. I enrolled in the Full Stack Coding Bootcamp at the University of Central Florida and graduated in early June. I am looking for an entry level oppurtunity to expand on my current skills and knowledge.",
+    "While I have experience in both the medical and sales fields, I recently made a career change into Web Development/Coding. I graduated from a Coding Bootcamp at the University of Central Florida and currently serve in a Support Engineer role. I will be relocating to Pittsburgh in January and am looking for opportunities to build on my current skill set.",
   resume: "placeholder",
   social: {
     linkedin: "https://www.linkedin.com/in/johnny-williamsjr/",
